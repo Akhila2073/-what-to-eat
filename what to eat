@@ -1,0 +1,26 @@
+#include<stdio.h>
+void main()
+{
+printf("select any number : \n1.\n2.\n3.\n4.\n5.");
+int choice=0;
+scanf(choice0
+	{
+	  case 1:
+			printf("you have selected pizza rs.239");
+			break;
+		case 2:
+			printf("you have selected burger rs.129");
+			break;
+		case 3:
+			printf("you have selected pasta rs.179");
+			break;
+		case 4:
+			printf("you have selected french fries rs.99");
+			break;
+		case 5:
+			printf("you have selected sandwich rs.149");
+			break;
+			default : printf("invalid");
+	}
+	
+}
